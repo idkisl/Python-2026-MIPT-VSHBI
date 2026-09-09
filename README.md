@@ -6,7 +6,7 @@
 
 ## Ведомость курса
 
-Ведомость курса [ссылка](https://docs.google.com/spreadsheets/d/1S4AefPMceGCdPyBqEWCG_1uKwhAu1OBLEZ01vk-B-Qw/edit?usp=sharing)
+Ведомость курса [ссылка]()
 
 ## Программа курса
 
