@@ -6,7 +6,7 @@
 
 ## Ведомость курса
 
-Ведомость курса [ссылка]()
+Ведомость курса [ссылка](https://docs.google.com/spreadsheets/d/1OsaLYGgHF7T5TGDuZ1ott1hIKhWC9xPD8d-kOJu3EEY/edit?usp=sharing)
 
 ## Система оценивания
 1.	Домашние задания (ДЗ) – 20%
