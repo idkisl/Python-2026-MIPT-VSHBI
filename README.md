@@ -81,6 +81,7 @@
 6. Функции-2. Функции высшего порядка.
     - [лекция](06/Лекция/Python_Functions_2_Lecture.ipynb)
     - [семинар](06/Семинар/Python_Functions_2_Seminar.ipynb)
+    - [домашнее задание](https://contest.yandex.ru/contest/100930/problems/)
 7. ООП в Python.
 8. GIT, командная строка
 9. Работа с файлами. JSON, CSV
